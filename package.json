@@ -1,0 +1,19 @@
+{
+  "name": "csv-convert-2-json",
+  "version": "1.0.0",
+  "description": "csv convert 2 json and revert",
+  "main": "convert-json-2-csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olcapone/csv-convert-2-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olcapone/csv-convert-2-json/issues"
+  },
+  "homepage": "https://github.com/Olcapone/csv-convert-2-json#readme"
+}
